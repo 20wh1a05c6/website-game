@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+    color: black;
+}
+h1{
+    font-family: Comic Sans MS;
+    background-color: grey;
+    color: black;
+    font-size: 50px;
+}
+h2{
+
+    font-family: Comic Sans MS;
+    font-size: 35px;
+}
+
+p{
+    font-family: Comic Sans MS;
+    color: black;
+    font-size: 25px;
+}
